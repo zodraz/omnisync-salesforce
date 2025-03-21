@@ -1,5 +1,11 @@
 {
-  "orgName": "Demo company",
+  "orgName": "omnisync",
   "edition": "Developer",
-  "features": []
+  "features": ["MultiCurrency"],
+    "settings": {
+        "currencySettings": {
+            "enableMultiCurrency":true,
+            "enableCurrencyEffectiveDates":true
+        }
+    }
 }
