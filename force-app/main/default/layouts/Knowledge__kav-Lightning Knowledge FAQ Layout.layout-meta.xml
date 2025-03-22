@@ -48,6 +48,9 @@
             <layoutItems>
                 <field>LastPublishedDate</field>
             </layoutItems>
+            <layoutItems>
+                <field>CurrencyIsoCode</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

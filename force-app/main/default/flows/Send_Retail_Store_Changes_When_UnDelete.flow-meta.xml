@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <description>Send Retail Store UnDelete</description>
+        <name>Send_Retail_Store_UnDelete</name>
+        <label>Send Retail Store UnDelete</label>
+        <locationX>176</locationX>
+        <locationY>323</locationY>
+        <actionName>RetailStoreUnDeletedEvent__c.RetailStoreUnDeletedEvent</actionName>
+        <actionType>outboundMessage</actionType>
+        <flowTransactionModel>CurrentTransaction</flowTransactionModel>
+        <nameSegment>RetailStoreUnDeletedEvent__c.RetailStoreUnDeletedEvent</nameSegment>
+        <offset>0</offset>
+    </actionCalls>
+    <apiVersion>63.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <description>Send Retail Store Changes When UnDelete</description>
+    <environments>Default</environments>
+    <interviewLabel>Send Retail Store Changes When UnDelete {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Send Retail Store Changes When UnDelete</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Send_Retail_Store_UnDelete</targetReference>
+        </connector>
+        <object>RetailStoreUnDeletedEvent__c</object>
+        <recordTriggerType>Create</recordTriggerType>
+        <triggerType>RecordAfterSave</triggerType>
+    </start>
+    <status>Active</status>
+</Flow>

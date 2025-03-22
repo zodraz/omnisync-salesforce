@@ -35,6 +35,10 @@
                 <behavior>Edit</behavior>
                 <field>Relationship_API_Name__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CurrencyIsoCode</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

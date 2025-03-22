@@ -32,10 +32,12 @@
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>ReadWrite</externalSharingModel>
     <searchLayouts>
+        <customTabListAdditionalFields>DataSpace</customTabListAdditionalFields>
         <customTabListAdditionalFields>MarketSegment</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActivationTarget</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActivationStatus</customTabListAdditionalFields>
         <customTabListAdditionalFields>ActivationObjectName</customTabListAdditionalFields>
+        <searchResultsAdditionalFields>DataSpace</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>MarketSegment</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ActivationTarget</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ActivationStatus</searchResultsAdditionalFields>

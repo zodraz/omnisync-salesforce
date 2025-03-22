@@ -133,11 +133,13 @@
         <customTabListAdditionalFields>Product</customTabListAdditionalFields>
         <customTabListAdditionalFields>Description</customTabListAdditionalFields>
         <customTabListAdditionalFields>Cost</customTabListAdditionalFields>
+        <customTabListAdditionalFields>CurrencyIsoCode</customTabListAdditionalFields>
         <customTabListAdditionalFields>EffectiveFrom</customTabListAdditionalFields>
         <customTabListAdditionalFields>EffectiveTo</customTabListAdditionalFields>
         <searchResultsAdditionalFields>Product</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Description</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Cost</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CurrencyIsoCode</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>EffectiveFrom</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>EffectiveTo</searchResultsAdditionalFields>
     </searchLayouts>

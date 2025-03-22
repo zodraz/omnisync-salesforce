@@ -75,8 +75,10 @@
     <externalSharingModel>Private</externalSharingModel>
     <searchLayouts>
         <customTabListAdditionalFields>PlatformName</customTabListAdditionalFields>
+        <customTabListAdditionalFields>DataSpace</customTabListAdditionalFields>
         <customTabListAdditionalFields>TargetStatus</customTabListAdditionalFields>
         <searchResultsAdditionalFields>PlatformName</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>DataSpace</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>TargetStatus</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
