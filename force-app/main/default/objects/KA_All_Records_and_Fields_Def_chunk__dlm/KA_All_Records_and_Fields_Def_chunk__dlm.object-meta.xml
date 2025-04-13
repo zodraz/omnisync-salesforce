@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>KA_All_Records_and_Fields_Def_chunk__dlm</label>
     <mktDataModelAttributes>
         <creationType>Semantic</creationType>
         <dataModelTaxonomy>Salesforce_SFDCReferenceModel_0_93</dataModelTaxonomy>
