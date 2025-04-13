@@ -40,6 +40,7 @@
     <columns>
         <field>ACCOUNT_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>Who are my top sales reps?</description>
     <format>Matrix</format>
     <groupingsDown>

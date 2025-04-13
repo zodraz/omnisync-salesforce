@@ -21,6 +21,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>How Many Solutions are Being Added to the Knowledgebase each Month?</description>
     <format>Matrix</format>
     <groupingsAcross>

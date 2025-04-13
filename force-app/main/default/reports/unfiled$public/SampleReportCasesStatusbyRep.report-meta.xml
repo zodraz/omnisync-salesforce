@@ -18,6 +18,7 @@
     <columns>
         <field>ACCOUNT.NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>Who has the most open cases?</description>
     <format>Matrix</format>
     <groupingsAcross>

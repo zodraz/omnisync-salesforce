@@ -4,5 +4,6 @@
     <label>AgentforceServiceAgentUserPsg</label>
     <permissionSets>force__AgentforceServiceAgentUser</permissionSets>
     <permissionSets>force__EinsteinGPTPromptTemplateUser</permissionSets>
+    <permissionSets>force__GenieUserEnhancedSecurity</permissionSets>
     <status>Updated</status>
 </PermissionSetGroup>

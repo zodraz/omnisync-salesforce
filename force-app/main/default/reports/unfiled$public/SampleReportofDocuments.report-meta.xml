@@ -33,6 +33,7 @@
     <columns>
         <field>FOLDER_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many documents have been added to Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

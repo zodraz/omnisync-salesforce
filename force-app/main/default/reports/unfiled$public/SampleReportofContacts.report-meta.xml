@@ -45,6 +45,7 @@
     <columns>
         <field>ACCOUNT.NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many contacts do we have in Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

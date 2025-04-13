@@ -22,6 +22,7 @@
     <columns>
         <field>FULL_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>

@@ -41,6 +41,7 @@
     <columns>
         <field>CLOSE_DATE</field>
     </columns>
+    <currency>EUR</currency>
     <format>Matrix</format>
     <groupingsAcross>
         <dateGranularity>Day</dateGranularity>

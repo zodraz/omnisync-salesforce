@@ -24,6 +24,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many solutions have been added to Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

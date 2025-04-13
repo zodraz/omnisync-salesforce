@@ -24,6 +24,7 @@
     <columns>
         <field>LOGIN_DATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>Who is logging in the most?</description>
     <filter>
         <criteriaItems>

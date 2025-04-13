@@ -16,6 +16,7 @@
     <columns>
         <field>FULL_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <format>Tabular</format>
     <name>Year Over Year Growth</name>
     <params>

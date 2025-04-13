@@ -24,6 +24,7 @@
     <columns>
         <field>LOGIN_DATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>Who is not logging in?</description>
     <filter>
         <criteriaItems>

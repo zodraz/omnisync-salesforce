@@ -25,6 +25,7 @@
         <aggregateTypes>Sum</aggregateTypes>
         <field>ACTIVE</field>
     </columns>
+    <currency>EUR</currency>
     <description>Which of my users are logging?</description>
     <format>Summary</format>
     <groupingsDown>

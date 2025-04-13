@@ -27,6 +27,7 @@
     <columns>
         <field>EMAIL</field>
     </columns>
+    <currency>EUR</currency>
     <description>What is the status of leads created this quarter?</description>
     <format>Matrix</format>
     <groupingsAcross>

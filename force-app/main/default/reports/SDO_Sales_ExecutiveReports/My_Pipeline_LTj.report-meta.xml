@@ -18,6 +18,7 @@
     <columns>
         <field>AMOUNT</field>
     </columns>
+    <currency>EUR</currency>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>

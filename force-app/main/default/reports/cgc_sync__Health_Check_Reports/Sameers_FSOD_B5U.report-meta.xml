@@ -61,6 +61,7 @@
     <columns>
         <field>cgc_sync__Sync_History__c$cgc_sync__End_Date_Time__c</field>
     </columns>
+    <currency>EUR</currency>
     <description>The background sync duration over time</description>
     <filter>
         <criteriaItems>

@@ -21,6 +21,7 @@
     <columns>
         <field>OWNER</field>
     </columns>
+    <currency>EUR</currency>
     <description>Uses the &quot;SLA Compliant&quot; custom field, which is driven from entitlements which update it if a case has violated an milestones.</description>
     <format>Summary</format>
     <groupingsDown>

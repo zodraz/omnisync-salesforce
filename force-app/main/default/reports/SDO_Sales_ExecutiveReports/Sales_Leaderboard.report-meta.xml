@@ -13,6 +13,7 @@
         <aggregateTypes>Sum</aggregateTypes>
         <field>AMOUNT</field>
     </columns>
+    <currency>EUR</currency>
     <description>All closed opportunities grouped by Sales Rep</description>
     <format>Summary</format>
     <groupingsDown>

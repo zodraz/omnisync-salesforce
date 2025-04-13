@@ -27,6 +27,7 @@
     <columns>
         <field>EMAIL</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many leads have we added to Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

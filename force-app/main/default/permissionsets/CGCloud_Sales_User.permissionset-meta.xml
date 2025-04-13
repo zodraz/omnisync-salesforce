@@ -2393,8 +2393,4 @@
         <tab>standard-Asset</tab>
         <visibility>Available</visibility>
     </tabSettings>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>

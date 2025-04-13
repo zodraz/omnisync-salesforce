@@ -21,6 +21,7 @@
     <columns>
         <field>LASTRUNDATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many custom reports have we added to Salesforce?</description>
     <format>Summary</format>
     <groupingsDown>

@@ -44,6 +44,7 @@
     <columns>
         <field>ROLLUP_DESCRIPTION</field>
     </columns>
+    <currency>EUR</currency>
     <description>How much business have I closed so far?</description>
     <format>Matrix</format>
     <groupingsAcross>

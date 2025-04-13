@@ -40,6 +40,7 @@
     <columns>
         <field>ACCOUNT_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>How much pipeline is at each sales stage?</description>
     <format>Matrix</format>
     <groupingsAcross>

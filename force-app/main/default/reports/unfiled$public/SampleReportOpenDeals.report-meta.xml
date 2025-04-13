@@ -43,6 +43,7 @@
     <columns>
         <field>ACCOUNT_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <description>What deals have not closed yet?</description>
     <format>Summary</format>
     <groupingsDown>

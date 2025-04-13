@@ -25,6 +25,7 @@
     <columns>
         <field>OWNER_NAME</field>
     </columns>
+    <currency>EUR</currency>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>

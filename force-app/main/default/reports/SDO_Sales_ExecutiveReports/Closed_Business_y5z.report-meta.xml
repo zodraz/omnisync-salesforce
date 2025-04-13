@@ -19,6 +19,7 @@
     <columns>
         <field>CLOSE_DATE</field>
     </columns>
+    <currency>EUR</currency>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>

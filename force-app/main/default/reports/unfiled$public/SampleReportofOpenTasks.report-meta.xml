@@ -24,6 +24,7 @@
     <columns>
         <field>OPPORTUNITY</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many open tasks do each of my users have?</description>
     <format>Matrix</format>
     <groupingsAcross>

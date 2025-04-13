@@ -113,8 +113,4 @@
         <recordType>cgcloud__BO_API_Step_Input_Structure__c.cgcloud__String</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
-    <tabSettings>
-        <tab>standard-SemanticModel</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
 </PermissionSet>

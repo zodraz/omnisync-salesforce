@@ -18,6 +18,7 @@
     <columns>
         <field>ADDRESS1_STATE</field>
     </columns>
+    <currency>EUR</currency>
     <description>How many accounts are being added to Salesforce?</description>
     <format>Matrix</format>
     <groupingsDown>
