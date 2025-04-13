@@ -4,7 +4,7 @@
         <fullName>RetailStoreDeletedEvent</fullName>
         <apiVersion>63.0</apiVersion>
         <description>Retail Store Deleted Event</description>
-        <endpointUrl>https://logic-omnisyncintegration-prod-ne-01.azurewebsites.net:443/api/wf-omnisyncretailstoredelete-prod-ne-01/triggers/Request/invoke?api-version=2022-05-01&amp;sp=%2Ftriggers%2FRequest%2Frun&amp;sv=1.0&amp;sig=NAATnq-WXmnOJ6I9zCcRpH6m5VO0jIAp7Hix9n3O1C8</endpointUrl>
+        <endpointUrl>https://prod-02.northeurope.logic.azure.com:443/workflows/69362b5f33b9456990dad3d9dc8e844e/triggers/Request/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2FRequest%2Frun&amp;sv=1.0&amp;sig=1XXVI9yamp2Hgcufg6EIbgPN4Ap-JYAXt4CyBSh9GUk</endpointUrl>
         <fields>CreatedById</fields>
         <fields>CreatedDate</fields>
         <fields>CurrencyIsoCode</fields>
@@ -15,6 +15,7 @@
         <fields>LastModifiedDate</fields>
         <fields>Name</fields>
         <fields>OwnerId</fields>
+        <fields>StoreCode__c</fields>
         <fields>SystemModstamp</fields>
         <includeSessionId>false</includeSessionId>
         <integrationUser>abel.vilalta-al16@force.com</integrationUser>

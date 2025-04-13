@@ -3,6 +3,7 @@
     <outboundMessages>
         <fullName>RetailStoreChanges</fullName>
         <apiVersion>63.0</apiVersion>
+        <description>Retail Store Changes</description>
         <endpointUrl>https://logic-omnisyncintegration-prod-ne-01.azurewebsites.net:443/api/wf-omnisyncretailstoreinsert-prod-ne-01/triggers/Request/invoke?api-version=2022-05-01&amp;sp=%2Ftriggers%2FRequest%2Frun&amp;sv=1.0&amp;sig=kyc7C6rejtz3m1HUXGl25dBMMZN_Si1fAR3IU6v8N50</endpointUrl>
         <fields>AccountId</fields>
         <fields>City</fields>
@@ -39,6 +40,7 @@
         <fields>RecommendedVisitFrequencyType</fields>
         <fields>RetailLocationGroupId</fields>
         <fields>State</fields>
+        <fields>StoreCode__c</fields>
         <fields>StoreType</fields>
         <fields>StoreTypeID__c</fields>
         <fields>Street</fields>

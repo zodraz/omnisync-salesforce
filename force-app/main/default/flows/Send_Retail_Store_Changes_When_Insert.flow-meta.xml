@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionCalls>
-        <description>Retail Store Insert</description>
-        <name>Retail_Store_Insert</name>
-        <label>Retail Store Insert</label>
+        <description>Retail Store Create</description>
+        <name>Retail_Store_Create</name>
+        <label>Retail Store Create</label>
         <locationX>176</locationX>
         <locationY>323</locationY>
         <actionName>RetailStore.RetailStoreChanges</actionName>
@@ -41,11 +41,11 @@
         <locationX>50</locationX>
         <locationY>0</locationY>
         <connector>
-            <targetReference>Retail_Store_Insert</targetReference>
+            <targetReference>Retail_Store_Create</targetReference>
         </connector>
         <object>RetailStore</object>
         <recordTriggerType>Create</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Active</status>
+    <status>Obsolete</status>
 </Flow>

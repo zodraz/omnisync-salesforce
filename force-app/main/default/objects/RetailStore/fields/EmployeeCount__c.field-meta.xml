@@ -4,7 +4,7 @@
     <description>Employee Count</description>
     <externalId>false</externalId>
     <label>EmployeeCount</label>
-    <precision>18</precision>
+    <precision>9</precision>
     <required>false</required>
     <scale>0</scale>
     <trackHistory>false</trackHistory>

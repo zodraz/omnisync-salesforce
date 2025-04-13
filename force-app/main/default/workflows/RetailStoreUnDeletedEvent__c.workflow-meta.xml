@@ -15,6 +15,7 @@
         <fields>LastModifiedDate</fields>
         <fields>Name</fields>
         <fields>OwnerId</fields>
+        <fields>StoreCode__c</fields>
         <fields>SystemModstamp</fields>
         <includeSessionId>false</includeSessionId>
         <integrationUser>abel.vilalta-al16@force.com</integrationUser>

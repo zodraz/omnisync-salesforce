@@ -11,11 +11,6 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Values</fullName>
-                <default>false</default>
-                <label>Values</label>
-            </value>
-            <value>
                 <fullName>meters</fullName>
                 <default>false</default>
                 <label>meters</label>

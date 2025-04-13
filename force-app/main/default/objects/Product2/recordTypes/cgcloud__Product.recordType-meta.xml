@@ -6,7 +6,7 @@
     <description>This record type is for creating CGCloud Products</description>
     <label>Product</label>
     <picklistValues>
-        <picklist>Brand__c</picklist>
+        <picklist>Class__c</picklist>
         <values>
             <fullName>Deluxe</fullName>
             <default>false</default>
@@ -103,10 +103,6 @@
     </picklistValues>
     <picklistValues>
         <picklist>SizeUnitOfMeasure__c</picklist>
-        <values>
-            <fullName>Values</fullName>
-            <default>false</default>
-        </values>
         <values>
             <fullName>centimeters</fullName>
             <default>false</default>

@@ -30,7 +30,7 @@
         <label>Information</label>
         <layoutColumns>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>StoreType</field>
             </layoutItems>
             <layoutItems>
@@ -56,6 +56,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>EmployeeCount__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>StoreCode__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
