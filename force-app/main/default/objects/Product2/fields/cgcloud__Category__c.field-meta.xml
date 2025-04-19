@@ -21,6 +21,11 @@
                 <label>Chips</label>
             </value>
             <value>
+                <fullName>Computers</fullName>
+                <default>false</default>
+                <label>Computers</label>
+            </value>
+            <value>
                 <fullName>Detergent</fullName>
                 <default>false</default>
                 <label>Detergent</label>

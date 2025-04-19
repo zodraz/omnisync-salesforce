@@ -154,23 +154,11 @@
     <picklistValues>
         <picklist>cgcloud__Category__c</picklist>
         <values>
-            <fullName>Beverages</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Chips</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Detergent</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Frozen</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Hygiene</fullName>
             <default>false</default>
         </values>
         <values>
