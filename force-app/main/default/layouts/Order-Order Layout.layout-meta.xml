@@ -51,6 +51,10 @@
                 <behavior>Readonly</behavior>
                 <field>NumLineItems__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>ExternalD365OrderNumber__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
