@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <outboundMessages>
+        <fullName>Contact</fullName>
+        <apiVersion>62.0</apiVersion>
+        <description>Contact</description>
+        <endpointUrl>https://webhook.site/5eda83a5-48a2-45a7-898e-18c8e82f8990</endpointUrl>
+        <fields>AccountId</fields>
+        <fields>AssistantName</fields>
+        <fields>FirstName</fields>
+        <fields>Id</fields>
+        <fields>Title</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>abel.vilalta@gmail.com</integrationUser>
+        <name>Contact</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
+</Workflow>

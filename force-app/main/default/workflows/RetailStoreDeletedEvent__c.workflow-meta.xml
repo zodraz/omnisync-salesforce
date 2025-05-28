@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <outboundMessages>
+        <fullName>RetailStoreDeletedEvent</fullName>
+        <apiVersion>63.0</apiVersion>
+        <description>RetailStoreDeletedEvent</description>
+        <endpointUrl>https://prod-28.northeurope.logic.azure.com:443/workflows/c65b6b9b9ec4404db2843969cc31bcd5/triggers/Request/paths/invoke?api-version=2016-10-01&amp;sp=%2Ftriggers%2FRequest%2Frun&amp;sv=1.0&amp;sig=-9W1K-CwEuZeCkabP9DhFwXLNdJ5Xj73nMxREb6dbOg</endpointUrl>
+        <fields>CreatedById</fields>
+        <fields>CreatedDate</fields>
+        <fields>CurrencyIsoCode</fields>
+        <fields>DeletedId__c</fields>
+        <fields>Id</fields>
+        <fields>IsDeleted</fields>
+        <fields>LastModifiedById</fields>
+        <fields>LastModifiedDate</fields>
+        <fields>Name</fields>
+        <fields>OwnerId</fields>
+        <fields>SystemModstamp</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>abel.vilalta@gmail.com</integrationUser>
+        <name>RetailStoreDeletedEvent</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
+</Workflow>
